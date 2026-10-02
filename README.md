@@ -1,6 +1,7 @@
 ## About me
 C++ software developer, interested in reverse engineering.
 
+Very good programmer👍
 
 ## Languages
 [<img align="left" height="64" width="64" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />](https://isocpp.org/)
